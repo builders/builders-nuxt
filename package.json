@@ -14,5 +14,11 @@
     "nuxt": "^2.0.0",
     "nuxt-buefy": "^0.3.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "buefy": "^0.8.5",
+    "bulma": "^0.7.5",
+    "frontmatter-markdown-loader": "^2.3.0",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0"
+  }
 }
